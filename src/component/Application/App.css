@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.input {
+  margin: 10px auto;
+  padding: 15px;
+  color: chartreuse;
+  font-size: 50px;
+  background-color: lemonchiffon;
+  border: 2px dotted rosybrown;
+}
+
+.even-char {
+    color: blue;
+    background-color: antiquewhite;
+    font-size: xxx-large;
+}
+
+.odd-char {
+  color: red;
+  background-color: chartreuse;
+  font-size: xxx-large;
+}
+
+.even-char:hover , .odd-char:hover {
+  color: wheat;
+  background-color: maroon;
+  font-size: smaller;  
+}
